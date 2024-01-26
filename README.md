@@ -1,4 +1,4 @@
-# Shah Lottery Celebration App
+# Shah Lottery Sorat App
 
 Welcome to the Shah Lottery Celebration App! This app brings an interactive confetti celebration to your webpage, making it a joyful and lively experience for your users.
 
